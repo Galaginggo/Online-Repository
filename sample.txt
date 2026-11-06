@@ -1,1 +1,3 @@
 My new local repository containing sample text file.
+
+This new sentence is created in the second branch and will be merge in the master branch.
